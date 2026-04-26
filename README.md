@@ -17,7 +17,7 @@ A Python-based HR analytics dashboard built with **pandas** and **matplotlib**.
 
 ## 📷 Dashboard Preview
 
-![HR Dashboard](output/hr_dashboard.png)
+<img width="5370" height="2955" alt="hr_analytics_dashboard_portfolio" src="https://github.com/user-attachments/assets/d062d16e-bbca-40a8-bc82-e4abb8629425" />
 
 ## 🚀 How to run
 
@@ -25,4 +25,4 @@ A Python-based HR analytics dashboard built with **pandas** and **matplotlib**.
 pip install -r requirements.txt
 python src/main.py
 ```
-<img width="5370" height="2955" alt="hr_analytics_dashboard_portfolio" src="https://github.com/user-attachments/assets/d062d16e-bbca-40a8-bc82-e4abb8629425" />
+
