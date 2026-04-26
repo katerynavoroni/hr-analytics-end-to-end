@@ -1,0 +1,9 @@
+employee_id,department,position,hire_date,base_salary,status
+1,HR,HR Specialist,2023-01-15,6500,active
+2,IT,Data Analyst,2022-07-10,9000,active
+3,Operations,Coordinator,2024-03-01,6200,active
+4,Finance,Payroll Specialist,2021-11-20,7800,active
+5,Recruitment,Recruiter,2023-09-05,6800,active
+6,IT,BI Analyst,2024-01-08,9500,active
+7,HR,HR Manager,2020-06-14,10500,active
+8,Operations,Team Lead,2022-02-18,8000,inactive
